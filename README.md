@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DavidMajomi
 - 👀 I’m interested in programming and web development.
-- 🌱 I’m currently learning html and css.
-- 💞️ I’m looking to collaborate on simple html projects.
+- 🌱 Currently have a strong understanding of c++, and currently learning more advanced Python features.
+- 💞️ I’m looking to collaborate on simple python or c++ projects.
 - 📫 How to reach me. You could email me at majomidavid1@gmail.com
 
 <!---
