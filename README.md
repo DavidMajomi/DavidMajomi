@@ -8,9 +8,10 @@
 
 - 🌱 I’m currently learning **C and more Advanced Python Features**
   
-- 📫 How to reach me. You could email me at majomidavid1@gmail.com
+
 
 <h3 align="left">Connect with me:</h3>
+- 📫 To reach me, You could email me at majomidavid1@gmail.com
 <p align="left">
 </p>
 
