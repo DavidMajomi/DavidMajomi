@@ -11,7 +11,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-- 📫 To reach me, You could email me at majomidavid1@gmail.com
+- 📫 To reach me, You could email me at majomidavid1@gmail.com.
 <p align="left">
 </p>
 
