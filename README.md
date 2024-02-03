@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on an [Experimental Loan Management System](https://github.com/DavidMajomi/Loan-Management-System-Experiment)
 
-- 🌱 I’m currently learning **C and more Advanced Python Features**
+- 🌱 I am also learning **C and more Advanced Python Features**
   
 
 
