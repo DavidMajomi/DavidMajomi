@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently working on a high perfromance [Loan Management System](https://github.com/DavidMajomi/Loan-Management-System-Experiment) and a [Stock Market Analysis Project](https://github.com/DavidMajomi/Stock-Market-Analysis)
 
-- 🌱 I am also learning **C and more Advanced Python Features**
   
 
 
@@ -33,7 +32,6 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   </p>
 </p>
 
