@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm David Majomi</h1>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidmajomi" alt="davidmajomi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidmajomi&title=-Stars" alt="davidmajomi" /></a> </p>
 
 - 🔭 I’m currently working on a high perfromance [Loan Management System](https://github.com/DavidMajomi/Loan-Management-System-Experiment) and a [Stock Market Analysis Project](https://github.com/DavidMajomi/Stock-Market-Analysis)
 
