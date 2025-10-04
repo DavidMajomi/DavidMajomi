@@ -4,9 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidmajomi&title=-Stars" alt="davidmajomi" /></a> </p>
 
-- 🔭 I’m currently working on a high perfromance [Loan Management System](https://github.com/DavidMajomi/Loan-Management-System-Experiment) and a [Stock Market Analysis Project](https://github.com/DavidMajomi/Stock-Market-Analysis)
-
-  
 
 
 <h3 align="left">Connect with me:</h3>
