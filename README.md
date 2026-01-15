@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm David Majomi</h1>
-CS & Applied Math @ at Rutgers University.
+CS & Applied Math @ Rutgers University, focused on systems and ML infrastructure
 
 
 ## Interests
@@ -14,6 +14,11 @@ CS & Applied Math @ at Rutgers University.
 - Distributed Systems and Computing
 - Data Acquisition and Validation Pipelines
 
+## Fun Stuff
+- HackRUC Organizer  
+- Jane Street Estimathon Competitor  
+- Hackprinceton Finalist  
+- PennApps Participant
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidmajomi&title=-Stars" alt="davidmajomi" /></a> </p> -->
 
