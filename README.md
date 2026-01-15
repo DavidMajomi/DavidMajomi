@@ -1,15 +1,25 @@
 
 <h1 align="center">Hi 👋, I'm David Majomi</h1>
+CS & Applied Math @ at Rutgers University.
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidmajomi&title=-Stars" alt="davidmajomi" /></a> </p>
+## Interests
+- Systems programming
+- Machine Learning and AI
+- Quantitative problem solving
+- Hackathons
+
+## Learning and Exploring
+- MLOps and Architecting AI Systems
+- Distributed Systems and Computing
+- Data Acquisition and Validation Pipelines
+
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidmajomi&title=-Stars" alt="davidmajomi" /></a> </p> -->
 
 
 
-<h3 align="left">Connect with me:</h3>
-- 📫 To reach me, You could email me at majomidavid1@gmail.com.
-<p align="left">
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -33,12 +43,16 @@
   </p>
 </p>
 
+<h3 align="left">Connect with me:</h3>
+- 📫 You can email me at majomidavid1@gmail.com.
+<p align="left">
+</p>
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidmajomi&show_icons=true&locale=en&layout=compact" alt="davidmajomi" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidmajomi&show_icons=true&locale=en&layout=compact" alt="davidmajomi" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidmajomi&show_icons=true&locale=en" alt="davidmajomi" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidmajomi&show_icons=true&locale=en" alt="davidmajomi" /></p> -->
 
 
 
